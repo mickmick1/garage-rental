@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/garage/static/css/main.0282bc82.css",
-    "main.js": "/garage/static/js/main.a9f495bb.js",
-    "static/media/slick.svg": "/garage/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/garage/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/garage/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/garage/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/garage/index.html",
-    "main.0282bc82.css.map": "/garage/static/css/main.0282bc82.css.map",
-    "main.a9f495bb.js.map": "/garage/static/js/main.a9f495bb.js.map"
+    "main.css": "/garage-rental/static/css/main.ec9d398f.css",
+    "main.js": "/garage-rental/static/js/main.db920d30.js",
+    "static/media/slick.svg": "/garage-rental/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/garage-rental/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/garage-rental/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/garage-rental/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/garage-rental/index.html",
+    "main.ec9d398f.css.map": "/garage-rental/static/css/main.ec9d398f.css.map",
+    "main.db920d30.js.map": "/garage-rental/static/js/main.db920d30.js.map"
   },
   "entrypoints": [
-    "static/css/main.0282bc82.css",
-    "static/js/main.a9f495bb.js"
+    "static/css/main.ec9d398f.css",
+    "static/js/main.db920d30.js"
   ]
 }
